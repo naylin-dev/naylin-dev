@@ -11,10 +11,9 @@ jobs:
     name: NayLin99's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: True
           SHOW_LINES_OF_CODE: True
           SHOW_OS: True
           SHOW_EDITORS: True
