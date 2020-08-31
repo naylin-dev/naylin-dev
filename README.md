@@ -38,16 +38,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NayLin99.NayLin99)
 
-<!--START_SECTION:waka-->
-```text
-HTML     10 hrs 50 mins  ██████████████▓░░░░░░░░░░   58.85 % 
-Python   7 hrs 29 mins   ██████████▒░░░░░░░░░░░░░░   40.68 % 
-SQL      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-<!--END_SECTION:waka-->
-
 <!--
 **NayLin99/NayLin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
