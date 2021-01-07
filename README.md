@@ -36,7 +36,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayLin99)
 
-- uses: NayLin99/metrics@latest
 
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NayLin99.NayLin99)
