@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: NayLin99/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year  
