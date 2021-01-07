@@ -36,6 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayLin99)
 
+![Metrics](https://github.com/NayLin99/NayLin99/blob/master/github-metrics.svg)
 
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NayLin99.NayLin99)
