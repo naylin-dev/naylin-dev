@@ -10,8 +10,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          plugin_lines: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year  
+          plugin_isocalendar_duration: full-year
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
