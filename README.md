@@ -2,13 +2,14 @@
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning:
     ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-round&logo=flask)
-    ![VueJS](https://img.shields.io/badge/vue.js%20-%2335495e.svg?&style=flat-round&logo=vue.js&logoColor=%234FC08D)
+    ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-round&logo=Python)
 - 🚀 I use daily: 
     ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-round&logo=Python)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-round&logo=visual-studio-code)
     ![Git](https://img.shields.io/badge/-Git-black?style=flat-round&logo=git)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-round&logo=javascript)
-    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-round&logo=mysql)
+    ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-round&logo=Python)
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-round&logo=postgresql)
 
 [![Linkedin Badge](https://img.shields.io/badge/-naylintun-green?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nay-lin-tun-30726b112/)](https://www.linkedin.com/in/nay-lin-tun-30726b112/ "LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-naylin.ucsy.99@gmail.com-red?style=flat-round&logo=Gmail&logoColor=white&link=mailto:naylin.ucsy.99@gmail.com)](mailto:naylin.ucsy.99@gmail.com "Send me email!")
