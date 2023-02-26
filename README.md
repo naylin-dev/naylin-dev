@@ -8,7 +8,6 @@
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-round&logo=visual-studio-code)
     ![Git](https://img.shields.io/badge/-Git-black?style=flat-round&logo=git)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-round&logo=javascript)
-    ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-round&logo=Python)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-round&logo=postgresql)
 
 [![Linkedin Badge](https://img.shields.io/badge/-naylintun-green?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nay-lin-tun-30726b112/)](https://www.linkedin.com/in/nay-lin-tun-30726b112/ "LinkedIn")
