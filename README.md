@@ -37,6 +37,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayLin99)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 August 2020 - To: 25 September 2023
+
+Total Time: 268 hrs 49 mins
+
+HTML         138 hrs 2 mins  >>>>>>>>>>>>>------------   51.16 %
+Python       86 hrs 29 mins  >>>>>>>>-----------------   32.06 %
+JavaScript   16 hrs 52 mins  >>-----------------------   06.26 %
+CSS          12 hrs 33 mins  >------------------------   04.65 %
+Markdown     6 hrs 35 mins   >------------------------   02.44 %
+PHP          3 hrs 58 mins   -------------------------   01.47 %
+Vue.js       1 hr 31 mins    -------------------------   00.57 %
+Other        59 mins         -------------------------   00.37 %
+JSON         48 mins         -------------------------   00.30 %
+INI          39 mins         -------------------------   00.24 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
