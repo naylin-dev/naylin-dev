@@ -36,6 +36,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayLin99)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 ![Metrics](https://github.com/NayLin99/NayLin99/blob/master/github-metrics.svg)
 -->
