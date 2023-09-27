@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 08 August 2020 - To: 25 September 2023
 
 Total Time: 268 hrs 49 mins
