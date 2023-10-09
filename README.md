@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 September 2023 - To: 06 October 2023
+From: 07 September 2023 - To: 07 October 2023
 
-Total Time: 49 hrs 2 mins
+Total Time: 49 hrs 10 mins
 
-Python            33 hrs 50 mins  >>>>>>>>>>>>>>>>>--------   68.81 %
-HTML              12 hrs 42 mins  >>>>>>-------------------   25.82 %
-JavaScript        1 hr 44 mins    >------------------------   03.54 %
+Python            33 hrs 58 mins  >>>>>>>>>>>>>>>>>--------   68.90 %
+HTML              12 hrs 42 mins  >>>>>>-------------------   25.75 %
+JavaScript        1 hr 44 mins    >------------------------   03.53 %
 INI               16 mins         -------------------------   00.57 %
 Text              9 mins          -------------------------   00.31 %
 Other             8 mins          -------------------------   00.29 %
