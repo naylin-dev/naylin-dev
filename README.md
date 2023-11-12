@@ -11,7 +11,7 @@
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-round&logo=postgresql)
 
 [![Linkedin Badge](https://img.shields.io/badge/-naylintun-green?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nay-lin-tun-30726b112/)](https://www.linkedin.com/in/nay-lin-tun-30726b112/ "LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-naylin.ucsy.99@gmail.com-red?style=flat-round&logo=Gmail&logoColor=white&link=mailto:naylin.ucsy.99@gmail.com)](mailto:naylin.ucsy.99@gmail.com "Send me email!")
+[![Gmail Badge](https://img.shields.io/badge/-naylintun.dev@gmail.com-red?style=flat-round&logo=Gmail&logoColor=white&link=mailto:naylintun.dev@gmail.com)](mailto:naylintun.dev@gmail.com "Send me email!")
 [![Facebook Badge](https://img.shields.io/badge/-NayLinTun-0078FF?style=flat-round&logo=Facebook&logoColor=white&link=https://www.facebook.com/konay99)](https://www.facebook.com/konay99 "Connect on Facebook")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/konay99 "Connect on Messenger")
 
