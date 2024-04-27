@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 💻 I'm a Student and Developer
-- 🌱 I’m currently learning:
+- 💻 I'm a Backend Developer
+- 🌱 I’m currently working with:
     ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-round&logo=flask)
     ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-round&logo=Python)
 - 🚀 I use daily: 
@@ -17,10 +17,9 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-round&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-round&logo=Python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-round&logo=java)
-![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-round&logo=flask)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-round&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat-round&logo=c-sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3)
