@@ -31,9 +31,9 @@
 
 
 
-![NayLin99's github stats](https://github-readme-stats.vercel.app/api?username=NayLin99&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![naylin-dev's github stats](https://github-readme-stats.vercel.app/api?username=naylin-dev&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayLin99)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylin-dev)-->
 
 <!--START_SECTION:waka-->
 
@@ -57,15 +57,15 @@ Markdown          8 mins          -------------------------   00.15 %
 <!--END_SECTION:waka-->
 
 <!--
-![Metrics](https://github.com/NayLin99/NayLin99/blob/master/github-metrics.svg)
+![Metrics](https://github.com/naylin-dev/naylin-dev/blob/master/github-metrics.svg)
 -->
 
 <!--
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NayLin99.NayLin99)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naylin-dev.naylin-dev)
 -->
 
 <!--
-**NayLin99/NayLin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naylin-dev/naylin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
