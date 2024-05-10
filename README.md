@@ -38,20 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 April 2024 - To: 08 May 2024
+From: 09 April 2024 - To: 09 May 2024
 
-Total Time: 95 hrs 21 mins
+Total Time: 96 hrs 24 mins
 
-Python            43 hrs 25 mins  >>>>>>>>>>>--------------   45.52 %
-HTML              34 hrs 47 mins  >>>>>>>>>----------------   36.47 %
-C#                12 hrs 56 mins  >>>----------------------   13.56 %
-JavaScript        1 hr 14 mins    -------------------------   01.30 %
-Bash              34 mins         -------------------------   00.61 %
-GitIgnore file    34 mins         -------------------------   00.60 %
-Csproj            33 mins         -------------------------   00.58 %
-Solution File     15 mins         -------------------------   00.26 %
-JSON              8 mins          -------------------------   00.15 %
-Git Config        7 mins          -------------------------   00.14 %
+Python            41 hrs 36 mins  >>>>>>>>>>>--------------   43.15 %
+HTML              35 hrs 8 mins   >>>>>>>>>----------------   36.44 %
+C#                14 hrs 2 mins   >>>>---------------------   14.57 %
+JavaScript        2 hrs 11 mins   >------------------------   02.28 %
+Csproj            41 mins         -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
