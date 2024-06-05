@@ -38,15 +38,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 May 2024 - To: 02 June 2024
+From: 04 May 2024 - To: 03 June 2024
 
-Total Time: 91 hrs 13 mins
+Total Time: 93 hrs 43 mins
 
-Python             57 hrs 38 mins  >>>>>>>>>>>>>>>>---------   62.97 %
-C#                 13 hrs 45 mins  >>>>---------------------   15.04 %
-HTML               8 hrs 38 mins   >>-----------------------   09.43 %
-JavaScript         7 hrs 53 mins   >>-----------------------   08.62 %
-TOML               37 mins         -------------------------   00.68 %
+Python             59 hrs 19 mins  >>>>>>>>>>>>>>>>---------   63.09 %
+C#                 13 hrs 40 mins  >>>>---------------------   14.53 %
+HTML               9 hrs 26 mins   >>>----------------------   10.04 %
+JavaScript         8 hrs           >>-----------------------   08.51 %
+TOML               37 mins         -------------------------   00.66 %
 ```
 
 <!--END_SECTION:waka-->
