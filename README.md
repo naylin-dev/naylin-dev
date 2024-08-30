@@ -34,6 +34,10 @@
   <img src ="https://streak-stats.demolab.com?user=naylin-dev&theme=dark">
 </p>
 
+<p align="center">
+    <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true">
+</p>
+
 <!--START_SECTION:waka-->
 
 ```rust
