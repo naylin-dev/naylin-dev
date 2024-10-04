@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=naylin-dev&count_private=true&show_icons=true&theme=dark&include_all_commits=true">
+<!--   <img src ="https://github-readme-stats.vercel.app/api?username=naylin-dev&count_private=true&show_icons=true&theme=dark&include_all_commits=true"> -->
   <img src ="https://streak-stats.demolab.com?user=naylin-dev&theme=dark">
 </p>
 
