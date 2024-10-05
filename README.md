@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-    <img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true">
+    <img src ="https://quotes-github-readme.vercel.app/api?theme=dracula&border=true">
 </p>
 
 <!--START_SECTION:waka-->
