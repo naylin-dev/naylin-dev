@@ -32,10 +32,11 @@
 <p align="center">
 <!--   <img src ="https://github-readme-stats.vercel.app/api?username=naylin-dev&count_private=true&show_icons=true&theme=dark&include_all_commits=true"> -->
   <img src ="https://streak-stats.demolab.com?user=naylin-dev&theme=dark">
+<!--     <img src ="https://quotes-github-readme.vercel.app/api?theme=dracula&border=true"> -->
 </p>
 
 <p align="center">
-    <img src ="https://quotes-github-readme.vercel.app/api?theme=dracula&border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naylin-dev&theme=dracula">
 </p>
 
 <!--START_SECTION:waka-->
