@@ -55,3 +55,5 @@ Markdown     59 mins         -------------------------   01.01 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![An image of @naylindev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naylindev)](https://holopin.io/@naylindev)
