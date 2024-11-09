@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with:
     ![Flask](https://img.shields.io/badge/-Flask-%23000?style=for-the-badge&logo=flask)
     ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=Python)
-- 🚀 I use daily: 
+- 🚀 I use daily:
     ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=Python)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
     ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
@@ -37,7 +37,8 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naylin-dev&theme=dracula">
+    <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=naylin-dev&theme=dracula"> -->
+    <img src="https://raw.githubusercontent.com/naylin-dev/naylin-dev/output/snake.svg" alt="Snake animation" />
 </p>
 
 <!--START_SECTION:waka-->
