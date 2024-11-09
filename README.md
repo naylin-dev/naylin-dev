@@ -1,19 +1,20 @@
 ### Hi there 👋
-- 💻 I'm a Backend Developer
-- 🌱 I’m currently working with:
+
+-   💻 I'm a Backend Developer
+-   🌱 I’m currently working with:
     ![Flask](https://img.shields.io/badge/-Flask-%23000?style=for-the-badge&logo=flask)
     ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=Python)
-- 🚀 I use daily:
+-   🚀 I use daily:
     ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=Python)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
     ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-[![Linkedin Badge](https://img.shields.io/badge/-naylintun-green?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nay-lin-tun-30726b112/)](https://www.linkedin.com/in/nay-lin-tun-30726b112/ "LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-naylintun.dev@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:naylintun.dev@gmail.com)](mailto:naylintun.dev@gmail.com "Send me email!")
-[![Facebook Badge](https://img.shields.io/badge/-NayLinTun-0078FF?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/konay99)](https://www.facebook.com/konay99 "Connect on Facebook")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=for-the-badge&logo=Messenger&logoColor=white)](https://m.me/konay99 "Connect on Messenger")
+[![Linkedin Badge](https://img.shields.io/badge/-naylintun-green?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nay-lin-tun-30726b112/)](https://www.linkedin.com/in/nay-lin-tun-30726b112/ 'LinkedIn')
+[![Gmail Badge](https://img.shields.io/badge/-naylintun.dev@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:naylintun.dev@gmail.com)](mailto:naylintun.dev@gmail.com 'Send me email!')
+[![Facebook Badge](https://img.shields.io/badge/-NayLinTun-0078FF?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/konay99)](https://www.facebook.com/konay99 'Connect on Facebook')
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=for-the-badge&logo=Messenger&logoColor=white)](https://m.me/konay99 'Connect on Messenger')
 
 ## ⚡ Technologies
 
@@ -38,7 +39,11 @@
 
 <p align="center">
     <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=naylin-dev&theme=dracula"> -->
-    <img src="https://raw.githubusercontent.com/naylin-dev/naylin-dev/output/snake.svg" alt="Snake animation" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naylin-dev/naylin-dev/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naylin-dev/naylin-dev/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/naylin-dev/naylin-dev/output/github-snake.svg" />
+    </picture>
 </p>
 
 <!--START_SECTION:waka-->
