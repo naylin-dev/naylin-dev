@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 January 2025 - To: 26 February 2025
+From: 28 January 2025 - To: 27 February 2025
 
-Total Time: 117 hrs 4 mins
+Total Time: 117 hrs 17 mins
 
-Python       95 hrs 43 mins  >>>>>>>>>>>>>>>>>>>>-----   81.25 %
-HTML         15 hrs 40 mins  >>>----------------------   13.30 %
-Bash         2 hrs 46 mins   >------------------------   02.35 %
+Python       94 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>-----   80.00 %
+HTML         17 hrs 1 min    >>>>---------------------   14.42 %
+Bash         3 hrs 1 min     >------------------------   02.57 %
 TOML         1 hr 1 min      -------------------------   00.87 %
 Other        44 mins         -------------------------   00.63 %
 ```
