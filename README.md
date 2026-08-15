@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 July 2026 - To: 12 August 2026
+From: 14 July 2026 - To: 13 August 2026
 
-Total Time: 150 hrs 10 mins
+Total Time: 152 hrs 44 mins
 
-Python            75 hrs 25 mins        >>>>>>>>>>>>-------------   48.76 %
-Markdown          23 hrs 33 mins        >>>>---------------------   15.23 %
-HTML              23 hrs 25 mins        >>>>---------------------   15.15 %
-YAML              6 hrs 51 mins         >------------------------   04.44 %
-JSON              6 hrs 19 mins         >------------------------   04.08 %
+Python            77 hrs 50 mins        >>>>>>>>>>>>-------------   49.53 %
+Markdown          24 hrs 2 mins         >>>>---------------------   15.30 %
+HTML              23 hrs 18 mins        >>>>---------------------   14.84 %
+YAML              6 hrs 51 mins         >------------------------   04.37 %
+JSON              6 hrs 37 mins         >------------------------   04.21 %
 ```
 
 <!--END_SECTION:waka-->
